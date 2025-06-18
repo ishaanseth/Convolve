@@ -5,4 +5,4 @@ With this submission, we were placed in the Top 50 out of 1000+ teams.
 ## Teammates
   * Ishaan Seth (EE23B110)
   * Aditya Sawant (CS23B003)
-  * Ritwik Mishra (ME23B246)
+  * Ritwik Mishra (ME23B237)
