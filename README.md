@@ -1,6 +1,6 @@
 # Convolve - Pan IIT AI ML Hackathon Submissions
 This repository contains the submissions of **Team Backprop Buddies** for Convolve, the Pan IIT AI ML Hackathon.
-With these submissions, our team was placed in the **Top 50 out of 1000+ teams**.
+With these submissions, our team was placed in the **Top 52 out of 1500+ registered teams**.
 
 The repository includes solutions and documentation for two distinct rounds:
 1.  A risk prediction model (Round 1).
